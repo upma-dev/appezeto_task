@@ -1,0 +1,6 @@
+{
+  "name": "Appzeto Helpdesk",
+  "description": "An advanced, load-balanced multi-user Support Ticket Helpdesk system featuring custom SLAs, SLA escalation, optimistic locking status conflict indicators, and intelligent Gemini AI ticket troubleshooting recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
