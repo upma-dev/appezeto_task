@@ -63,7 +63,8 @@ PORT=3000
 # MongoDB Connection URL
 # (A sandboxed cloud MongoDB cluster is pre-configured and ready for painless evaluator testing.
 # Replace with your own connection string if you wish to use a custom cloud or local server.)
-MONGODB_URI="mongodb+srv://somi123:Somya1234@cluster0.frvpn.mongodb.net/helpdesk?retryWrites=true&w=majority"
+MONGODB_URI="mongodb+srv://username:password
+@cluster0.frvpn.mongodb.net/helpdesk?retryWrites=true&w=majority"
 
 # Gemini Cloud AI Key (Used for smart SLA priority auto-assessments and routing insights)
 GEMINI_API_KEY="YOUR_GEMINI_API_KEY_HERE"
